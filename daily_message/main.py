@@ -2,8 +2,8 @@ import requests
 from datetime import datetime
 from twilio.rest import Client
 
-MY_LAT = 30.268772
-MY_LONG = 31.526516
+MY_LAT = 0.0
+MY_LONG = 0.0
 
 account_sid = 'yours'
 auth_token = 'yours'
